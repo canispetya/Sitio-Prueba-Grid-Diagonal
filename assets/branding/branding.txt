@@ -1,0 +1,14 @@
+COLORES:
+AMARILLO: #ffff00
+AMARILLO GOLD: #f6c425
+
+FONTS:
+NORTH ROAD (NO EXISTE, GENERADA POR AI)
+PROHIBITION (ADOBE)
+
+PROMPT:
+"Design a vibrant and colorful website inspired by the iconic Colony Hotel in Miami Beach. The site should evoke the hotel's retro and neon aesthetic, with a focus on the urban sunset vibe. Use bold, saturated colors like electric blues, hot pinks, and bright purples, reminiscent of the neon signs that light up the Miami skyline. Incorporate elements of Art Deco architecture with sleek lines and geometric patterns. The overall feel should be lively and dynamic, capturing the essence of a tropical, energetic nightlife while maintaining a polished, modern design."
+
+SVG REPO:
+Orchid Line Interface Icons Collection
+https://www.svgrepo.com/collection/orchid-line-interface-icons/
